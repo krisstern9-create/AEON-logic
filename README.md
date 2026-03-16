@@ -168,6 +168,7 @@ ANSWER: Nowhere. It was lost in translation.
 }
 
 ##Key Properties:
+
 | Property | Purpose | 
 | Structured | AI can understand without ambiguity | 
 | Signed | Guarantees intention from owner of "I" | 
@@ -204,6 +205,7 @@ Role of AI: Understand intention and translate to physical operations.
   OUTPUT: AEON Scheme (Visual) 
 
 ##Why AI, Not Human:
+
 | Human | AI | 
 | Understands meaning, not physics | Understands both meaning and physics | 
 | Makes mistakes in details | Precise in implementation | 
@@ -261,6 +263,7 @@ Language of states and transitions, not text.
 
 
 ##Why Visual, Not Text:
+
 | Text | Visual Scheme | 
 | Linear (read line by line) | Parallel (see whole structure) | 
 | Abstract (words) | Concrete (states and connections) | 
@@ -302,21 +305,22 @@ Direct manipulation of quantum states.
 1. Analogy with Evolution
 Language Evolution:
 
-│                                                             │
-│  Cries/Gestures → Words → Writing → Print → Code           │
-│       ↓          ↓        ↓           ↓            ↓        │
-│  Direct     Abstra-   More        Even more    Maximum     │
-│  Meaning    ction    abstraction abstraction   abstraction │
-│                                                             │
-│  We go BACKWARD:                                            │
-│  Code → Text → Writing → Words → Cries → Direct Meaning    │
-│                                                             │
-│  AEON Logic = Return to direct meaning                      │
-│                                                             │
+                                                            
+  Cries/Gestures → Words → Writing → Print → Code           
+       ↓          ↓        ↓           ↓            ↓       
+  Direct     Abstra-   More        Even more    Maximum     
+  Meaning    ction    abstraction abstraction   abstraction 
+                                                            
+  We go BACKWARD:                                           
+  Code → Text → Writing → Words → Cries → Direct Meaning    
+                                                             
+  AEON Logic = Return to direct meaning                      
+                                                             
 
 
 2. Physics as Language
 The universe already "computes".
+
 | What Universe Does | What AEON Logic Does | 
 | Electrons move by physical laws | We use these laws directly | 
 | Quantum states evolve | We guide evolution by intention | 
@@ -396,34 +400,35 @@ Intent Validation
 
                    SCOS VALIDATION                          
 
-│                                                             │
-│  Before Execution:                                          │
-│  ┌─────────────────────────────────────────────────────┐   │
-│  │ ✓ Consent verified (cryptographic signature)        │   │
-│  │ ✓ No coercion detected (behavioral analysis)        │   │
-│  │ ✓ Mental capacity confirmed (cognitive test)        │   │
-│  │ ✓ Irreversibility acknowledged (explicit consent)   │   │
-│  │ ✓ No-cloning enforced (physics guarantee)           │   │
-│  └─────────────────────────────────────────────────────┘   │
-│                                                             │
-│  During Execution:                                          │
-│  ┌─────────────────────────────────────────────────────┐   │
-│  │ ✓ Continuity monitored (real-time)                  │   │
-│  │ ✓ Uniqueness verified (no duplicates)               │   │
-│  │ ✓ Rollback ready (if failure detected)              │   │
-│  └─────────────────────────────────────────────────────┘   │
-│                                                             │
-│  After Execution:                                           │
-│  ┌─────────────────────────────────────────────────────┐   │
-│  │ ✓ Subjective report collected                       │   │
-│  │ ✓ Behavioral consistency verified                   │   │
-│  │ ✓ Cryptographic proof generated                     │   │
-│  │ ✓ Audit log immutable                               │   │
-│  └─────────────────────────────────────────────────────┘   │
-│                                                             │
+                                                             
+  Before Execution:                                         
+  ┌─────────────────────────────────────────────────────┐   
+  │ ✓ Consent verified (cryptographic signature)        │   
+  │ ✓ No coercion detected (behavioral analysis)        │   
+  │ ✓ Mental capacity confirmed (cognitive test)        │   
+  │ ✓ Irreversibility acknowledged (explicit consent)   │   
+  │ ✓ No-cloning enforced (physics guarantee)           │   
+  └─────────────────────────────────────────────────────┘   
+                                                            
+  During Execution:                                         
+  ┌─────────────────────────────────────────────────────┐   
+  │ ✓ Continuity monitored (real-time)                  │   
+  │ ✓ Uniqueness verified (no duplicates)               │   
+  │ ✓ Rollback ready (if failure detected)              │   
+  └─────────────────────────────────────────────────────┘   
+                                                            
+  After Execution:                                          
+  ┌─────────────────────────────────────────────────────┐   
+  │ ✓ Subjective report collected                       │   
+  │ ✓ Behavioral consistency verified                   │   
+  │ ✓ Cryptographic proof generated                     │   
+  │ ✓ Audit log immutable                               │   
+  └─────────────────────────────────────────────────────┘   
+                                                             
 
 
 ##Prohibited Operations
+
 | Operation | Why Prohibited | 
 | Copying "I" | Violates no-cloning, creates ethical problem | 
 | Forced transfer | Violates consciousness autonomy |
@@ -432,6 +437,7 @@ Intent Validation
 | Transfer with break >100ms | Violates continuity = death |
 
 ##Comparison with Existing Approaches
+
 | Aspect | Traditional Programming | Neural Networks | AEON Logic |
 | Goal | Solve task | Recognize pattern | Transfer consciousness |
 | Language | Text (Python, C++, etc.) | Matrix weights | Intent + Scheme | 
@@ -443,6 +449,7 @@ Intent Validation
 
 ##Proof of Viability
 What Already Exists
+
 | Technology | Status |Applicability to AEON | 
 | Quantum teleportation | ✅ Proven (photons, atoms) | Foundation for transfer | 
 | Quantum entanglement | ✅ Proven | Foundation for continuity | 
@@ -451,6 +458,7 @@ What Already Exists
 | Neural correlates of consciousness | 🟡 Researched | Foundation for measurement | 
 
 ##What Is Missing
+
 | Technology | What Is Needed | Expected Timeline | 
 | Quantum computers | 10^6+ qubits, error-corrected | 2030-2040 | 
 | Quantum memory | Hours of coherence | 2030-2035 | 
@@ -462,79 +470,79 @@ What Already Exists
 
                    AEON LOGIC ROADMAP                       
 
-│                                                             │
-│  2025 (Now):                                                │
-│  ┌─────────────────────────────────────────────────────┐   │
-│  │ ✓ Concept documented                                │   │
-│  │ ✓ Community forming                                 │   │
-│  │ ✓ Intent Protocol spec (draft)                      │   │
-│  └─────────────────────────────────────────────────────┘   │
-│                                                             │
-│  2026-2027:                                                 │
-│  ┌─────────────────────────────────────────────────────┐   │
-│  │ □ AI Translator prototype (simulation)              │   │
-│  │ □ Scheme syntax finalized                           │   │
-│  │ □ First collaborators (theory)                      │   │
-│  └─────────────────────────────────────────────────────┘   │
-│                                                             │
-│  2028-2030:                                                 │
-│  ┌─────────────────────────────────────────────────────┐   │
-│  │ □ Partnership with quantum lab                      │   │
-│  │ □ Simple scheme execution (qubits)                  │   │
-│  │ □ SCOS integration complete                         │   │
-│  └─────────────────────────────────────────────────────┘   │
-│                                                             │
-│  2031-2035:                                                 │
-│  ┌─────────────────────────────────────────────────────┐   │
-│  │ □ Complex schemes (multi-qubit states)              │   │
-│  │ □ Biological interface research                     │   │
-│  │ □ First non-human consciousness transfer            │   │
-│  └─────────────────────────────────────────────────────┘   │
-│                                                             │
-│  2036-2040+:                                                │
-│  ┌─────────────────────────────────────────────────────┐   │
-│  │ □ Human consciousness transfer (volunteer)          │   │
-│  │ □ Commercial applications                           │   │
-│  │ □ AEON Logic = industry standard                    │   │
-│  └─────────────────────────────────────────────────────┘   │
-│                                                             │
+                                                             
+  2025 (Now):                                                
+  ┌─────────────────────────────────────────────────────┐   
+  │ ✓ Concept documented                                │   
+  │ ✓ Community forming                                 │   
+  │ ✓ Intent Protocol spec (draft)                      │   
+  └─────────────────────────────────────────────────────┘   
+                                                             
+  2026-2027:                                                
+  ┌─────────────────────────────────────────────────────┐   
+  │ □ AI Translator prototype (simulation)              │   
+  │ □ Scheme syntax finalized                           │   
+  │ □ First collaborators (theory)                      │   
+  └─────────────────────────────────────────────────────┘   
+                                                            
+  2028-2030:                                                
+  ┌─────────────────────────────────────────────────────┐   
+  │ □ Partnership with quantum lab                      │   
+  │ □ Simple scheme execution (qubits)                  │   
+  │ □ SCOS integration complete                         │   
+  └─────────────────────────────────────────────────────┘   
+                                                            
+  2031-2035:                                                
+  ┌─────────────────────────────────────────────────────┐   
+  │ □ Complex schemes (multi-qubit states)              │   
+  │ □ Biological interface research                     │   
+  │ □ First non-human consciousness transfer            │   
+  └─────────────────────────────────────────────────────┘   
+                                                            
+  2036-2040+:                                               
+  ┌─────────────────────────────────────────────────────┐   
+  │ □ Human consciousness transfer (volunteer)          │   
+  │ □ Commercial applications                           │   
+  │ □ AEON Logic = industry standard                    │   
+  └─────────────────────────────────────────────────────┘   
+                                                            
 
 
 ##Seeking Collaborators
 
                     SEEKING COLLABORATORS                    
 
-│                                                             │
-│  🔬 Quantum Physicists                                      │
-│  - Help map intentions to quantum operations                │
-│  - Validate "primal language" hypothesis                    │
-│  - Advise on decoherence protection                         │
-│                                                             │
-│  🤖 AI/ML Engineers                                         │
-│  - Build intent understanding models                        │
-│  - Develop scheme generation algorithms                     │
-│  - Test translation fidelity                                │
-│                                                             │
-│  🧠 Consciousness Researchers                               │
-│  - Validate that schemes preserve Self/qualia/will          │
-│  - Design verification protocols                            │
-│  - Bridge theory and implementation                         │
-│                                                             │
-│  💻 Hardware Engineers                                      │
-│  - Advise on quantum computing platforms                    │
-│  - Help design specialized ASICs for consciousness ops      │
-│  - Optimize for minimal latency                             │
-│                                                             │
-│  🎨 Visual Language Designers                               │
-│  - Define intuitive scheme syntax                           │
-│  - Create tools for scheme editing/visualization            │
-│  - Ensure readability for humans and AI                     │
-│                                                             │
-│  💰 Investors / Sponsors                                    │
-│  - Fund research                                            │
-│  - Provide access to quantum equipment                      │
-│  - Long-term support                                        │
-│                                                             │
+                                                             
+  🔬 Quantum Physicists                                      
+  - Help map intentions to quantum operations                
+  - Validate "primal language" hypothesis                    
+  - Advise on decoherence protection                         
+                                                             
+  🤖 AI/ML Engineers                                         
+  - Build intent understanding models                        
+  - Develop scheme generation algorithms                     
+  - Test translation fidelity                                
+                                                             
+  🧠 Consciousness Researchers                               
+  - Validate that schemes preserve Self/qualia/will          
+  - Design verification protocols                            
+  - Bridge theory and implementation                         
+                                                             
+  💻 Hardware Engineers                                      
+  - Advise on quantum computing platforms                    
+  - Help design specialized ASICs for consciousness ops      
+  - Optimize for minimal latency                             
+                                                             
+  🎨 Visual Language Designers                               
+  - Define intuitive scheme syntax                           
+  - Create tools for scheme editing/visualization            
+  - Ensure readability for humans and AI                     
+                                                             
+  💰 Investors / Sponsors                                    
+  - Fund research                                            
+  - Provide access to quantum equipment                      
+  - Long-term support                                        
+                                                             
 
 
 ##How to Start
@@ -551,6 +559,7 @@ Start with theory, diagrams, or simulations.
 
 ##Conclusion
 Key Insights
+
 | Insight | Significance |
 | Intent > Code | Human formulates goal, not instructions | 
 | AI as Bridge | Machine understands machine — translation without loss |
@@ -566,6 +575,7 @@ AEON Logic is an attempt to speak to the universe in its language."
 AEON Logic is the bridge between understanding and implementation."
 
 ##Related Projects
+
 | Project | Description | Link | 
 | AEON Core | Main consciousness transfer framework | aeon-core | 
 | Qualia Interface | Functional theory of qualia | qualia-interface | 
