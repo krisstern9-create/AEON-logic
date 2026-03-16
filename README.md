@@ -301,7 +301,7 @@ Direct manipulation of quantum states.
 ##Why This Is "Primal Language"
 1. Analogy with Evolution
 Language Evolution:
-┌─────────────────────────────────────────────────────────────┐
+
 │                                                             │
 │  Cries/Gestures → Words → Writing → Print → Code           │
 │       ↓          ↓        ↓           ↓            ↓        │
@@ -313,7 +313,7 @@ Language Evolution:
 │                                                             │
 │  AEON Logic = Return to direct meaning                      │
 │                                                             │
-└─────────────────────────────────────────────────────────────┘
+
 
 2. Physics as Language
 The universe already "computes".
@@ -393,9 +393,9 @@ RESULT: Continuous Existence Confirmed
 
 ##Safety and Ethics (SCOS Integration)
 Intent Validation
-┌─────────────────────────────────────────────────────────────┐
-│                    SCOS VALIDATION                          │
-├─────────────────────────────────────────────────────────────┤
+
+                   SCOS VALIDATION                          
+
 │                                                             │
 │  Before Execution:                                          │
 │  ┌─────────────────────────────────────────────────────┐   │
@@ -421,7 +421,7 @@ Intent Validation
 │  │ ✓ Audit log immutable                               │   │
 │  └─────────────────────────────────────────────────────┘   │
 │                                                             │
-└─────────────────────────────────────────────────────────────┘
+
 
 ##Prohibited Operations
 | Operation | Why Prohibited | 
@@ -459,9 +459,9 @@ What Already Exists
 | AEON Logic protocol | WE ARE CREATING THIS | Now | 
 
 ##Roadmap
-┌─────────────────────────────────────────────────────────────┐
-│                    AEON LOGIC ROADMAP                       │
-├─────────────────────────────────────────────────────────────┤
+
+                   AEON LOGIC ROADMAP                       
+
 │                                                             │
 │  2025 (Now):                                                │
 │  ┌─────────────────────────────────────────────────────┐   │
@@ -498,12 +498,12 @@ What Already Exists
 │  │ □ AEON Logic = industry standard                    │   │
 │  └─────────────────────────────────────────────────────┘   │
 │                                                             │
-└─────────────────────────────────────────────────────────────┘
+
 
 ##Seeking Collaborators
-┌─────────────────────────────────────────────────────────────┐
-│                    SEEKING COLLABORATORS                    │
-├─────────────────────────────────────────────────────────────┤
+
+                    SEEKING COLLABORATORS                    
+
 │                                                             │
 │  🔬 Quantum Physicists                                      │
 │  - Help map intentions to quantum operations                │
@@ -535,7 +535,7 @@ What Already Exists
 │  - Provide access to quantum equipment                      │
 │  - Long-term support                                        │
 │                                                             │
-└─────────────────────────────────────────────────────────────┘
+
 
 ##How to Start
 1. Read this document completely
