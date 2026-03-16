@@ -176,35 +176,32 @@ ANSWER: Nowhere. It was lost in translation.
 
 2. AI Translator
 Role of AI: Understand intention and translate to physical operations.
-┌─────────────────────────────────────────────────────────────┐
-│                    AI TRANSLATOR                            │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  INPUT: Intent Protocol (JSON)                              │
-│                                                             │
-│  STEP 1: Semantic Understanding                             │
-│  - What does user mean by "consciousness"?                  │
-│  - What is "self" in this context?                          │
-│  - What are the real priorities?                            │
-│                                                             │
-│  STEP 2: Physics Mapping                                    │
-│  - Which quantum operations achieve this?                   │
-│  - What are the physical constraints?                       │
-│  - What is the minimum time required?                       │
-│                                                             │
-│  STEP 3: Scheme Generation                                  │
-│  - Create visual scheme of states/transitions               │
-│  - Validate against physical laws                           │
-│  - Optimize for continuity preservation                     │
-│                                                             │
-│  STEP 4: Safety Validation (SCOS)                           │
-│  - Does this violate no-cloning?                            │
-│  - Is continuity guaranteed?                                │
-│  - Is consent verified?                                     │
-│                                                             │
-│  OUTPUT: AEON Scheme (Visual)                               │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+
+                    AI TRANSLATOR                           
+                                                             
+  INPUT: Intent Protocol (JSON)                              
+                                                             
+  STEP 1: Semantic Understanding                             
+  - What does user mean by "consciousness"?                  
+  - What is "self" in this context?                          
+  - What are the real priorities?                            
+                                                             
+  STEP 2: Physics Mapping                                    
+  - Which quantum operations achieve this?                   
+  - What are the physical constraints?                       
+  - What is the minimum time required?                       
+                                                             
+  STEP 3: Scheme Generation                                  
+  - Create visual scheme of states/transitions               
+  - Validate against physical laws                           
+  - Optimize for continuity preservation                     
+                                                             
+  STEP 4: Safety Validation (SCOS)                           
+  - Does this violate no-cloning?                            
+  - Is continuity guaranteed?                                
+  - Is consent verified?                                     
+                                                             
+  OUTPUT: AEON Scheme (Visual) 
 
 ##Why AI, Not Human:
 | Human | AI | 
@@ -216,54 +213,52 @@ Role of AI: Understand intention and translate to physical operations.
 
 3. AEON Scheme (Visual Language)
 Language of states and transitions, not text.
-┌─────────────────────────────────────────────────────────────┐
-│              CONSCIOUSNESS TRANSFER SCHEME                  │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│   ┌─────────────────┐                                       │
-│   │  SOURCE         │                                       │
-│   │  Biological     │                                       │
-│   │  Brain          │                                       │
-│   │  [ACTIVE]       │                                       │
-│   └────────┬────────┘                                       │
-│            │                                                │
-│            │ EXTRACT                                        │
-│            │ CoreSelfSignature                              │
-│            ▼                                                │
-│   ┌─────────────────┐                                       │
-│   │  QUANTUM        │                                       │
-│   │  BUFFER         │                                       │
-│   │  [TRANSIENT]    │ ← Does not store, transfers           │
-│   └────────┬────────┘                                       │
-│            │                                                │
-│            │ ENTANGLE                                       │
-│            │ Target_Node_42                                 │
-│            ▼                                                │
-│   ┌─────────────────┐                                       │
-│   │  TELEPORT       │                                       │
-│   │  Instant        │                                       │
-│   │  [NO-CLONE]     │ ← Source destroyed                    │
-│   └────────┬────────┘                                       │
-│            │                                                │
-│            │ RECONSTRUCT                                    │
-│            │ Full Signature                                 │
-│            ▼                                                │
-│   ┌─────────────────┐                                       │
-│   │  TARGET         │                                       │
-│   │  Quantum        │                                       │
-│   │  Substrate      │                                       │
-│   │  [ACTIVE]       │                                       │
-│   └─────────────────┘                                       │
-│                                                             │
-│   VERIFICATION:                                             │
-│   ┌──────────────────────────────────────────────┐         │
-│   │ ✓ Signature Match (100%)                     │         │
-│   │ ✓ Continuity Gap < 100ms                     │         │
-│   │ ✓ Uniqueness Confirmed (Source Deactivated)  │         │
-│   │ ✓ Subjective Report: "I am me"               │         │
-│   └──────────────────────────────────────────────┘         │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+
+              CONSCIOUSNESS TRANSFER SCHEME                  
+                                                             
+   ┌─────────────────┐                                       
+   │  SOURCE         │                                       
+   │  Biological     │                                       
+   │  Brain          │                                       
+   │  [ACTIVE]       │                                       
+   └────────┬────────┘                                       
+            │                                                
+            │ EXTRACT                                        
+            │ CoreSelfSignature                              
+            ▼                                                
+   ┌─────────────────┐                                       
+   │  QUANTUM        │                                       
+   │  BUFFER         │                                       
+   │  [TRANSIENT]    │ ← Does not store, transfers           
+   └────────┬────────┘                                       
+            │                                                
+            │ ENTANGLE                                       
+            │ Target_Node_42                                 
+            ▼                                                
+   ┌─────────────────┐                                       
+   │  TELEPORT       │                                       
+   │  Instant        │                                       
+   │  [NO-CLONE]     │ ← Source destroyed                    
+   └────────┬────────┘                                       
+            │                                                
+            │ RECONSTRUCT                                    
+            │ Full Signature                                 
+            ▼                                                
+   ┌─────────────────┐                                       
+   │  TARGET         │                                       
+   │  Quantum        │                                       
+   │  Substrate      │                                       
+   │  [ACTIVE]       │                                       
+   └─────────────────┘                                       
+                                                             
+   VERIFICATION:                                             
+   ┌──────────────────────────────────────────────┐         
+   │ ✓ Signature Match (100%)                     │         
+   │ ✓ Continuity Gap < 100ms                     │         
+   │ ✓ Uniqueness Confirmed (Source Deactivated)  │         
+   │ ✓ Subjective Report: "I am me"               │         
+   └──────────────────────────────────────────────┘         
+
 
 ##Why Visual, Not Text:
 | Text | Visual Scheme | 
@@ -275,33 +270,33 @@ Language of states and transitions, not text.
 
 4. Quantum Hardware Layer
 Direct manipulation of quantum states.
-┌─────────────────────────────────────────────────────────────┐
-│                 QUANTUM HARDWARE LAYER                      │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Physical Operations (No Abstraction):                      │
-│                                                             │
-│  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐      │
-│  │   CREATE     │  │   MANIPULATE │  │   MEASURE    │      │
-│  │  Entangled   │  │  Quantum     │  │  Verify      │      │
-│  │  Pair        │  │  State       │  │  State       │      │
-│  └──────────────┘  └──────────────┘  └──────────────┘      │
-│                                                             │
-│  Protection Layer:                                          │
-│  ┌─────────────────────────────────────────────────────┐   │
-│  │  VACUUM TUNNEL (Only quantum states pass)           │   │
-│  │  - Electromagnetic shielding                        │   │
-│  │  - Thermal isolation (near 0K)                      │   │
-│  │  - Observation prevention (no collapse)             │   │
-│  └─────────────────────────────────────────────────────┘   │
-│                                                             │
-│  Execution Guarantees:                                      │
-│  - Latency: < 1ms (physical limit)                          │
-│  - Decoherence: Protected by tunnel                         │
-│  - No-cloning: Enforced by physics                          │
-│  - Continuity: Guaranteed by entanglement                   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+
+                 QUANTUM HARDWARE LAYER                      
+
+                                                             
+  Physical Operations (No Abstraction):                      
+                                                             
+  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐      
+  │   CREATE     │  │   MANIPULATE │  │   MEASURE    │      
+  │  Entangled   │  │  Quantum     │  │  Verify      │      
+  │  Pair        │  │  State       │  │  State       │      
+  └──────────────┘  └──────────────┘  └──────────────┘      
+                                                            
+  Protection Layer:                                         
+  ┌─────────────────────────────────────────────────────┐   
+  │  VACUUM TUNNEL (Only quantum states pass)           │   
+  │  - Electromagnetic shielding                        │   
+  │  - Thermal isolation (near 0K)                      │   
+  │  - Observation prevention (no collapse)             │   
+  └─────────────────────────────────────────────────────┘   
+                                                            
+  Execution Guarantees:                                     
+  - Latency: < 1ms (physical limit)                         
+  - Decoherence: Protected by tunnel                        
+  - No-cloning: Enforced by physics                         
+  - Continuity: Guaranteed by entanglement                  
+                                                            
+
 
 ##Why This Is "Primal Language"
 1. Analogy with Evolution
