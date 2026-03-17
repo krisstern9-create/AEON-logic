@@ -146,32 +146,32 @@ Steps:
 - Safety Validation (SCOS): Does this violate no-cloning? Is continuity guaranteed?
 
 ##Why AI, Not Human:
-┌─────────────────┐
+
 │  SOURCE         │
 │  Biological     │
 │  [ACTIVE]       │
-└────────┬────────┘
+
          │ EXTRACT
          ▼
-┌─────────────────┐
+
 │  QUANTUM        │
 │  BUFFER         │
 │  [TRANSIENT]    │
-└────────┬────────┘
+
          │ ENTANGLE
          ▼
-┌─────────────────┐
+
 │  TELEPORT       │
 │  Instant        │
 │  [NO-CLONE]     │
-└────────┬────────┘
+
          │ RECONSTRUCT
          ▼
-┌─────────────────┐
+
 │  TARGET         │
 │  Quantum        │
 │  [ACTIVE]       │
-└─────────────────┘
+
 
 ##Why Visual, Not Text:
 - Parallel: See whole structure vs linear reading.
@@ -209,12 +209,12 @@ AEON Logic = Return to direct meaning
 ""2. Physics as Language""
 The universe already "computes.
 | What Universe Does | What AEON Logic Does |
-|-------------------------------------------|
+|--------------------|----------------------|
 | Electrons move by physical laws | We use these laws directly |
 | Quantum states evolve | We guide evolution by intention | 
 | Time flows continuously | We preserve continuity
 | Energy is conserved | We do not create/destroy — we transfer | 
-|--------------------------------------------------------------|
+
 We do not program the universe. We speak to it in its language.
 
 ""3. "Forgotten", Not "Invented""
@@ -290,17 +290,17 @@ After Execution:
 
 ""Prohibited Operations""
 | Operation | Why Prohibited | 
-|----------------------------| 
+|-----------|----------------| 
 | Copying "I" | Violates no-cloning, creates ethical problem |
 | Forced transfer | Violates consciousness autonomy | 
 | Modification without consent | Violates "I" integrity | 
 | Creating multiple active "I" | Violates uniqueness | 
 | Transfer with break >100ms | Violates continuity = death | 
-|----------------------------------------------------------| 
+ 
 
 **Comparison with Existing Approaches**
-| Aspect | Traditional Programming |Neural Networks | AEON Logic | 
-|----------------------------------------------------------------| 
+| Aspect | Traditional Programming | Neural Networks | AEON Logic | 
+|--------|-------------------------|-----------------|------------| 
 | Goal | Solve task | Recognize pattern | Transfer consciousness | 
 | Language | Text (Python, C++, etc.) | Matrix weights |Intent + Scheme | 
 | Compilation | Yes (losses) | No (training) | No (direct) | 
@@ -308,28 +308,28 @@ After Execution:
 | Losses | At every layer | In compression | None (direct path) | 
 | Understanding | No (blind execution) | Partial | Full (AI + Physics) | 
 | For Consciousness | ❌ Unsuitable | 🟡 Partial | ✅ Built for this |
-|----------------------------------------------------------------------|
+
 
 **Proof of Viability
 What Already Exists**
 | Technology | Status | Applicability to AEON |
-|---------------------------------------------|
+|------------|--------|-----------------------|
 | Quantum teleportation | ✅ Proven (photons, atoms) | Foundation for transfer |
 | Quantum entanglement | ✅ Proven | Foundation for continuity |
 | No-cloning theorem | ✅ Proven | Uniqueness guarantee |
 | AI intent understanding | 🟡 Developing (LLMs) | Foundation for translator |
 | Neural correlates of consciousness | 🟡 Researched | Foundation for measurement |
-|----------------------------------------------------------------------------------|
+
 
 **What Is Missing**
 | Technology | What Is Needed | Expected Timeline |
-|-------------------------------------------------| 
+|------------|----------------|-------------------| 
 | Quantum computers | 10^6+ qubits, error-corrected | 2030-2040 |
 | Quantum memory | Hours of coherence | 2030-2035 | 
 | Brain-computer interface | Read quantum states | 2040-2050 |
 | AI translator | Understand consciousness | 2025-2030 |
 | AEON Logic protocol | WE ARE CREATING THIS | Now |
-|--------------------------------------------------|
+
 
 **Roadmap**
 2025 (Now):
@@ -393,13 +393,13 @@ Together, we can remember the forgotten language.
 **Conclusion
 Key Insights**
 | Insight | Significance |
-|----------------------------------------------------------------------|
+|---------|--------------|
 | Intent > Code | Human formulates goal, not instructions | 
 | AI as Bridge | Machine understands machine — translation without loss | 
 | Schemes > Text | Visual = closer to consciousness structure | 
 | Direct > Abstract | Minimum layers = minimum loss |
 | Remember > Invent | We uncover fundamental, not create new |
-|------------------------------------------------------------|
+
 
 **Final Statement
 "Programming is an attempt to force the universe to obey our instructions.
@@ -410,14 +410,14 @@ AEON Logic is the bridge between understanding and implementation."**
 
 **Related Projects**
 | Project | Description | Link |
-|---------------------------------------------------------------| 
+|---------|-------------|------| 
 | AEON Core | Main consciousness transfer framework | aeon-core |
 | Qualia Interface | Functional theory of qualia | qualia-interface | 
 | Free Will Functional | Free will as process | free-will-functional | 
 | Self Not Illusion | "I" is not illusion, but pattern | self-not-illusion | 
 | Measuring Self | How to measure "I" function | measuring-self-function | 
 | SCOS Intent Core | Intent validation | scos-intent-core |
-|---------------------------------------------------------|
+
 
 **AEON Logic — For those who speak to the universe in its native tongue.
 Document ID: AEON-LOGIC-MANIFESTO-001
